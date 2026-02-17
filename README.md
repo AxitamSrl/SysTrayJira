@@ -311,6 +311,32 @@ Or use Task Scheduler for more control (restart on failure, etc.).
 | Priority icons all ⚪ | Your Jira uses custom priority names — check mapping in source |
 | `str.removeprefix` error | Upgrade to Python 3.10+ |
 
+## 🚀 SysTrayJira Pro
+
+Looking for more features? Check out [SysTrayJira Pro](https://github.com/AxitamSrl/SysTrayJira-Pro) — also open source!
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| JQL groups + priority emojis | ✅ | ✅ |
+| Auto/manual refresh | ✅ | ✅ |
+| Multi-auth (basic/bearer/pat) | ✅ | ✅ |
+| Custom icon + dynamic color | ✅ | ✅ |
+| 🔔 Desktop notifications | ❌ | ✅ |
+| 🔄 Jira transitions (zenity) | ❌ | ✅ |
+| 🔍 Search issues | ❌ | ✅ |
+| 📌 Pinned current tickets | ❌ | ✅ |
+| ⚙️ Config editor popup | ❌ | ✅ |
+| 📝 Copy issue link/title | ❌ | ✅ |
+| 🔢 Badge counter | ❌ | ✅ |
+
+## Support the Project
+
+If you find SysTrayJira useful, consider supporting its development:
+
+- ⭐ Star the repo on GitHub
+- 💖 [Sponsor on GitHub](https://github.com/sponsors/AxitamSrl)
+- ☕ [Buy me a coffee](https://ko-fi.com/axitam)
+
 ## License
 
 Copyright 1988-2026 Axitam SRL
