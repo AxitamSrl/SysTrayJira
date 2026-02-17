@@ -334,8 +334,8 @@ Looking for more features? Check out [SysTrayJira Pro](https://github.com/Axitam
 If you find SysTrayJira useful, consider supporting its development:
 
 - ⭐ Star the repo on GitHub
-- 💖 [Sponsor on GitHub](https://github.com/sponsors/AxitamSrl)
-- ☕ [Buy me a coffee](https://ko-fi.com/axitam)
+- 💖 [Sponsor on GitHub](https://github.com/sponsors/AxitamSrl) (USD)
+- 💶 [Donate on Liberapay](https://fr.liberapay.com/Axitam) (EUR)
 
 ## License
 
